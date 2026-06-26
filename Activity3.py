@@ -1,0 +1,11 @@
+import turtle
+turtle.Screen().bgcolor('red')
+t = turtle.Turtle()
+t.forward(300)
+t.left(90)
+t.forward(300)
+t.left(90)
+t.forward(300)
+t.left(90)
+t.forward(300)
+turtle.done()
